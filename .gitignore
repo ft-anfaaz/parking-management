@@ -1,0 +1,11 @@
+target/
+*.class
+.nb-gradle/
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle-properties
+*.iml
+.idea/
+.vscode/
+.DS_Store
