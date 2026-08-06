@@ -4,6 +4,9 @@ A college mini-project (2020-21, Sahyadri College of Engineering & Management):
 a Java Swing desktop app, backed by MySQL, that manages parking-space
 allocation, customer registration, vehicle records, bookings, and payments.
 
+Also available as a website: [parking-management-webapp](https://github.com/ft-anfaaz/parking-management-webapp)
+— **live at https://parking-manager.duckdns.org** (login: `admin` / `admin123`).
+
 ## Features
 
 - **Login** — staff authentication against a `users` table (SHA-256 hashed passwords).
